@@ -1,2 +1,2 @@
 # CaptureTheFlag
-Capture the enemy's flag with your voice! in space! online!
+Capture the enemy's flag and shoot arrows with your voice! in space! online!
